@@ -46,5 +46,7 @@ A high-performance automation tool for interacting with the **Openledger** block
 - openledgerbot 
 - openledger auto farm 
 - openledger multi account
+- openledger network 
+- openledger network bot
 ---  
 
